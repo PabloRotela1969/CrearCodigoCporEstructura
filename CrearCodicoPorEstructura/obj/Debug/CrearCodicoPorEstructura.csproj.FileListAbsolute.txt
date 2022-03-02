@@ -1,0 +1,7 @@
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\bin\Debug\CrearCodicoPorEstructura.exe.config
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\bin\Debug\CrearCodicoPorEstructura.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\bin\Debug\CrearCodicoPorEstructura.pdb
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\obj\Debug\CrearCodicoPorEstructura.csprojAssemblyReference.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\obj\Debug\CrearCodicoPorEstructura.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\obj\Debug\CrearCodicoPorEstructura.exe
+C:\Users\MI COMPU\Documents\PROYECTOS\CrearCodicoPorEstructura\CrearCodicoPorEstructura\obj\Debug\CrearCodicoPorEstructura.pdb
